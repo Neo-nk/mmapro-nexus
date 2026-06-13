@@ -71,3 +71,13 @@ export default defineConfig([
   },
 ])
 ```
+How to run:
+
+check for node
+
+node -v
+npm -v
+
+if both installed, then run npm install
+
+if successful, use 'npm run dev' to run localhost instance.
